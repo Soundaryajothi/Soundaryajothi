@@ -12,44 +12,31 @@
 ---
 ## 🌟 About Me
 
-<div align="center">
+```yaml
+name: Soundarya J
+location: Chennai, Tamil Nadu, India 🇮🇳
+education:
+  degree: B.Tech - Information Technology
+  college: Saveetha Engineering College
+  cgpa: 9.1 / 10.0
+  year: Pre-Final Year (2023 – Present)
 
-<table>
-<tr>
-<td align="left">
+current_focus:
+  - Java Full Stack Development (Advanced)
+  - AI + Web Integration Projects
+  - Cracking top product-based companies
 
-🎓 **B.Tech – Information Technology**  
-📍 Chennai, Tamil Nadu, India 🇮🇳  
-🏫 Saveetha Engineering College  
-📊 CGPA: **9.1 / 10.0**  
-📅 Pre-Final Year (2023 – Present)  
+passions:
+  - Full Stack Development 🌐
+  - Machine Learning & AI 🤖
+  - Cloud Computing ☁️
+  - IoT & Network Security 🔐
 
-</td>
-<td align="left">
+quote: "I don't just write code — I build solutions."
+` `` ← (remove space, keep 3 backticks to close)
+```
 
-🚀 **Currently Focused On**  
-- Java Full Stack Development (Advanced)  
-- AI + Web Integration  
-- Placement Preparation  
-
-💡 **Passionate About**  
-- Full Stack Development 🌐  
-- Machine Learning & AI 🤖  
-- Cloud Computing ☁️  
-- IoT & Network Security 🔐  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<p align="center">
-<i>"I don't just write code — I build solutions."</i>
-</p>
----
+> **⚠️ Important fix:** The issue is the closing triple backtick. Make sure the block looks exactly like this — no extra spaces before the closing ` ``` `:
 
 ## 🚀 Tech Stack
 
