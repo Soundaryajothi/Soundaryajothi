@@ -8,8 +8,15 @@
 
 <br/>
 
+<!-- Profile Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=Soundaryajothi&label=Profile+Views&color=7c3aed&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Soundaryajothi?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0f0c29)](https://github.com/Soundaryajothi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soundarya-jothi-599b94289)
+
+</div>
 
 ---
+
 ## 🌟 About Me
 
 ```yaml
@@ -33,10 +40,9 @@ passions:
   - IoT & Network Security 🔐
 
 quote: "I don't just write code — I build solutions."
-` `` ← (remove space, keep 3 backticks to close)
 ```
 
-> **⚠️ Important fix:** The issue is the closing triple backtick. Make sure the block looks exactly like this — no extra spaces before the closing ` ``` `:
+---
 
 ## 🚀 Tech Stack
 
@@ -93,6 +99,9 @@ quote: "I don't just write code — I build solutions."
 </div>
 
 ---
+
+
+
 ## 🏅 Certifications
 
 <div align="center">
