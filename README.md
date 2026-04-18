@@ -12,29 +12,43 @@
 ---
 ## 🌟 About Me
 
-```yaml
-name: Soundarya J
-location: Chennai, Tamil Nadu, India 🇮🇳
-education:
-  degree: B.Tech - Information Technology
-  college: Saveetha Engineering College
-  cgpa: 9.1 / 10.0
-  year: Pre-Final Year (2023 – Present)
+<div align="center">
 
-current_focus:
-  - Java Full Stack Development (Advanced)
-  - AI + Web Integration Projects
-  - Cracking top product-based companies
+<table>
+<tr>
+<td align="left">
 
-passions:
-  - Full Stack Development 🌐
-  - Machine Learning & AI 🤖
-  - Cloud Computing ☁️
-  - IoT & Network Security 🔐
+🎓 **B.Tech – Information Technology**  
+📍 Chennai, Tamil Nadu, India 🇮🇳  
+🏫 Saveetha Engineering College  
+📊 CGPA: **9.1 / 10.0**  
+📅 Pre-Final Year (2023 – Present)  
 
-quote: "I don't just write code — I build solutions."
-```
+</td>
+<td align="left">
 
+🚀 **Currently Focused On**  
+- Java Full Stack Development (Advanced)  
+- AI + Web Integration  
+- Placement Preparation  
+
+💡 **Passionate About**  
+- Full Stack Development 🌐  
+- Machine Learning & AI 🤖  
+- Cloud Computing ☁️  
+- IoT & Network Security 🔐  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<p align="center">
+<i>"I don't just write code — I build solutions."</i>
+</p>
 ---
 
 ## 🚀 Tech Stack
